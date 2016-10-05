@@ -4,7 +4,7 @@ README
 This folder contains three python files (chartPatterns.py, stockPredictor.py, and stocksToAudio.py) as well as a few .csv files containing stock market data.
 To run these programs, you will need Python 2.7, with the following packages installed:
 glob, math, bisect, collections, csv, datetime, StringIO, pygame, music21, matplotlib
-Of these, only the last three are not included with a standard installation of python. They can all be installed using pip.
+Of these, only the last three are not included with a standard installation of python. 
 
 
 chartPatterns.py
